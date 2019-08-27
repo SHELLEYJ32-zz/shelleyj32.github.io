@@ -1,12 +1,11 @@
 {
-  "main.css": "/static/css/main.abe95dfb.chunk.css",
-  "main.js": "/static/js/main.92afd388.chunk.js",
-  "main.css.map": "/static/css/main.abe95dfb.chunk.css.map",
-  "main.js.map": "/static/js/main.92afd388.chunk.js.map",
+  "main.css": "/static/css/main.56bf3dc9.chunk.css",
+  "main.js": "/static/js/main.649c8e92.chunk.js",
+  "main.css.map": "/static/css/main.56bf3dc9.chunk.css.map",
+  "main.js.map": "/static/js/main.649c8e92.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.1b922744.js",
   "runtime~main.js.map": "/static/js/runtime~main.1b922744.js.map",
   "vendors~main.js": "/static/js/vendors~main.3ca81432.chunk.js",
   "vendors~main.js.map": "/static/js/vendors~main.3ca81432.chunk.js.map",
-  "index.html": "/index.html",
-  "static/media/main.css": "/static/media/kabel.b7ed399e.otf"
+  "index.html": "/index.html"
 }
