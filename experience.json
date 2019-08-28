@@ -49,6 +49,25 @@
     ],
     "employment": [
         {
+            "position": "Incoming Mentoring TA",
+            "organization": "Computer Science Department at Mount Holyoke College",
+            "location": "South Hadley, MA",
+            "start time": "Sep 2019",
+            "end time": "Current",
+            "description": [
+                "(Coming soon)"
+            ],
+            "tags": [
+                "Current",
+                "Computer Science"
+            ],
+            "skills": [
+                "Java"
+            ],
+            "link": "https://www.mtholyoke.edu/media/gigas-and-megas-mentor-program-launched",
+            "logo": "assets/image/experience/employment/mage.png"
+        },
+        {
             "position": "Game Development Camp Counselor",
             "organization": "Girls Make Games",
             "location": "San Mateo, CA",
@@ -180,7 +199,7 @@
                 "Current",
                 "Computer Science"
             ],
-            "link": "shanjiang.dev",
+            "link": "https://shanjiang.dev",
             "logo": "assets/image/experience/projects/portfolio.png"
         },
         {
@@ -302,6 +321,27 @@
         }
     ],
     "activities": [
+        {
+            "position": "Google Developer Student Club Leader",
+            "organization": "Google",
+            "location": "South Hadley, MA",
+            "start time": "Aug 2019",
+            "end time": "Present",
+            "description": [
+                "Coming soon "
+            ],
+            "tags": [
+                "Current",
+                "Leadership",
+                "Computer Science"
+            ],
+            "skills": [
+                "Java",
+                "Python"
+            ],
+            "link": "https://developers.google.com/community/dsc/",
+            "logo": "assets/image/experience/activities/gdsc.png"
+        },
         {
             "position": "Student Speaker",
             "organization": "Society for Cinema and Media Studies Undergraduate Conference",
