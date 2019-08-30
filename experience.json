@@ -184,7 +184,8 @@
             "description": [
                 "Construct front-end framework in functional language Elm with Model-View-Update structure",
                 "Conceptualize and build responsive UI with customized Elm APIs, CSS, JavaScript, and HTML",
-                "Create multiple JSON decoders to display website text without any hardcoding"
+                "Test elm-ui-bootstrap API for quality assurance and enhance code functionality before release",
+                "Create multiple JSON decoders to display similar text layout without hardcoding"
             ],
             "skills": [
                 "Elm",
@@ -210,7 +211,7 @@
             "start time": "May 2019",
             "end time": "Present",
             "description": [
-                "Research on contributing factors of and solutions to the gender gap in game development industry",
+                "Research contributing factors of and solutions to the gender gap in game development industry",
                 "Collect data in Tokyo, Japan through 7 interviews and 30 existing news and research reports",
                 "Raise public awareness of education for women game developers through social media and workshops"
             ],
@@ -293,6 +294,27 @@
             "link": "https://herdingchats.wixsite.com/mysite",
             "github": "https://github.com/SHELLEYJ32/HerdingChats3",
             "logo": "assets/image/experience/projects/herding_chats.png"
+        },
+        {
+            "title": "Leverett Pond Documentary",
+            "position": "Videographer, Editor",
+            "location": "Leverett, MA",
+            "start time": "Nov 2018",
+            "end time": "May 2019",
+            "description": [
+                "Researched the history of Leverett Pond with a former UMass professor and 2 students",
+                "Interviewed 10 local residents, reviewed film scripts, and edited a 20-min documentary "
+            ],
+            "tags": [
+                "Past",
+                "Volunteer",
+                "Film and Media Studies"
+            ],
+            "skills": [
+                "AdobePr"
+            ],
+            "logo": "assets/image/experience/projects/leverett.png",
+            "link": "https://leverett.ma.us/d/3320/Leverett-Pond-Film-Screening"
         },
         {
             "title": "Waste and Words Sorting Game",
