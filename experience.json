@@ -202,7 +202,12 @@
             ],
             "link": "https://shanjiang.dev",
             "github": "https://github.com/SHELLEYJ32/shelleyj32.github.io",
-            "logo": "assets/image/experience/projects/portfolio.png"
+            "logo": "assets/image/experience/projects/portfolio.png",
+            "note": [
+                "Since this spring, I wanted to build my portfolio website but without any previous knowledge of web development, I was debating whether I should code or use a template until I came across Elm.",
+                "For the first 2 weeks of August, I learned the basics of Elm through online tutorials. It is my first functional praogramming language after two years of OOP and it has been fascinating.",
+                "As a beginner web devloper, I was able to follow most of my UI design and implement the website within the LAST 2 WEEKS of August! (Wait, What? "
+            ]
         },
         {
             "title": "Game Developer Independent Research",
