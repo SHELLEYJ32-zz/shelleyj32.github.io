@@ -49,7 +49,27 @@
     ],
     "employment": [
         {
-            "position": "Incoming Mentoring TA",
+            "position": "Women in Game Programming Teaching Assistant",
+            "organization": "Hampshire College",
+            "location": "Amherst, MA",
+            "start time": "Sep 2019",
+            "end time": "Current",
+            "description": [
+                "(Coming soon)"
+            ],
+            "tags": [
+                "Current",
+                "Computer Science"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity"
+            ],
+            "link": "http://irafay.com/classes/CS181/",
+            "logo": "assets/image/experience/employment/game_ta.png"
+        },
+        {
+            "position": "Mentoring Teaching Assistant",
             "organization": "Computer Science Department at Mount Holyoke College",
             "location": "South Hadley, MA",
             "start time": "Sep 2019",
