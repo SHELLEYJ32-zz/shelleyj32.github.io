@@ -59,6 +59,7 @@
             ],
             "tags": [
                 "Current",
+                "Leadership",
                 "Computer Science"
             ],
             "skills": [
@@ -67,6 +68,26 @@
             ],
             "link": "http://irafay.com/classes/CS181/",
             "logo": "assets/image/experience/employment/game_ta.png"
+        },
+        {
+            "position": "Police Use of Force Research Assistant",
+            "organization": "B.E.A.R.S Lab",
+            "location": "South Hadley, MA",
+            "start time": "Sep 2019",
+            "end time": "Current",
+            "description": [
+                "(Coming soon)"
+            ],
+            "tags": [
+                "Current",
+                "Computer Science"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity"
+            ],
+            "link": "https://thebearslab.com",
+            "logo": "assets/image/experience/employment/bears.png"
         },
         {
             "position": "Mentoring Teaching Assistant",
