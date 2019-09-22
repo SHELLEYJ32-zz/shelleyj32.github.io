@@ -77,8 +77,8 @@
             "start time": "Sep 2019",
             "end time": "Current",
             "description": [
-                "Maintain VR programmes to assist examining perceptual, physiological, and cognitive processes",
-                "Administer VR protocols to participants and monitor automatic research data collection"
+                "Maintain Unity virtual reality programmes in C# to examine racial bias in police officers",
+                "Administer vr protocols to participants and monitor automatic research data collection"
             ],
             "tags": [
                 "Current",
@@ -134,14 +134,14 @@
             "logo": "assets/image/experience/employment/gmg.png"
         },
         {
-            "position": "Giga Education Mentor and Grader",
+            "position": "Data Structure Mentor and Grader",
             "organization": "Computer Science Department at Mount Holyoke College",
             "location": "South Hadley, MA",
             "start time": "Jan 2019",
             "end time": "May 2019",
             "description": [
-                "Analyzed coding assignments and provided technical critique for 14 students weekly",
-                "Mentored 2 students in Data Structures and improved their self-efficacy"
+                "Evaluated coding assignments and provided technical critique for 14 students weekly",
+                "Tutored 2 students in Data Structures and improved self-efficacy and interest in computer science"
             ],
             "tags": [
                 "Past",
@@ -227,10 +227,10 @@
             "start time": "Sep 2019",
             "end time": "Present",
             "description": [
-                "Collaborate with 30 students to design, develop, and publish a digital game in 13 weeks",
-                "Conceptualize gameplay elements through regular communication with lead designer",
-                "Oversee game execution and implementation by leading 6 game programmers and delegate assignments",
-                "More details coming soon"
+                "Collaborate with 30 students to design, develop, and publish a mobile Unity game in 13 weeks",
+                "Oversee game execution through GitHub and Unity Cloud and monitor version control through Git",
+                "Lead 6 programmers, design cross-team pipelines and develop Technical Design Document",
+                "Optimize graphics rendering, implement UI, and conceptualize gameplay elements with the lead designer"
             ],
             "skills": [
                 "CSharp",
