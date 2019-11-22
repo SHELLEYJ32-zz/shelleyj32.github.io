@@ -9,14 +9,24 @@
             "majors": "Computer Science and Film Studies",
             "cs courses": "Algorithms, Advanced Data Structures, Modeling and Simulation, Computing System, Advanced Problem Solving and OOP, Multivariable Calculus, Discrete Mathematics",
             "film courses": "History of World Cinema, Film Theory: Cinema/City",
-            "honors": "Mildred L Sanderson Prize for Math Excellence, Louise Appleton Career Development Fund for independent research"
+            "honors": "Mildred L Sanderson Prize for Math Excellence, Louise Appleton Career Development Fund for independent research, Sarah Williston Scholar"
+        },
+        {
+            "name": "Budapest University of Technology and Economics",
+            "logo": "assets/image/experience/education/BME logo.png",
+            "location": "Budapest, Hungary",
+            "length": "Jan 2020 - May 2020",
+            "relation": "Study Abroad - Spring 2020",
+            "cs courses": "Computer Graphics, Mobile Software Development, User Experience Design, Scalable Systems and Development Processes",
+            "film courses": "Hungary through Hungarian Cinema",
+            "honors": "Laurel Fellowship"
         },
         {
             "name": "Hampshire College",
             "logo": "assets/image/experience/education/hampshire logo.png",
             "location": "Amherst, MA",
             "relation": "Five College Consortium Cross Registration",
-            "cs courses": "Twitch.tv Game Development, Interdisciplinary Game Studio, Computer Animation I"
+            "cs courses": "Twitch.tv Game Development, Interdisciplinary Game Studio, Computer Animation I, Women in Game Programming"
         },
         {
             "name": "Amherst College",
@@ -43,7 +53,7 @@
             "logo": "assets/image/experience/education/UCLA logo.jpeg",
             "length": "Jun 2018 - Aug 2018",
             "location": "Los Angeles, CA",
-            "relation": "Summer School",
+            "relation": "Summer 2018",
             "film courses": "Digital Cinematography"
         }
     ],
@@ -55,7 +65,7 @@
             "start time": "Sep 2019",
             "end time": "Current",
             "description": [
-                "Mentor 20 beginning game programming students with code review and debugging help",
+                "Mentor 20 beginning game programming students with code review and debugging help in C#",
                 "Analyze the issues facing women and other underrepresented groups in the game industry"
             ],
             "tags": [
@@ -77,14 +87,16 @@
             "start time": "Sep 2019",
             "end time": "Current",
             "description": [
-                "Maintain Unity virtual reality programmes in C# to examine racial bias in police officers",
-                "Administer vr protocols to participants and monitor automatic research data collection"
+                "Maintain and modify Unity virtual reality programmes in C# to examine racial bias in police officers",
+                "Administer virtual reality protocols to participants and monitor automatic research data collection",
+                "Streamline pupil diameter changes in Java and XML for efficient big data evaluation on eye tracking"
             ],
             "tags": [
                 "Current",
                 "Computer Science"
             ],
             "skills": [
+                "Java",
                 "CSharp",
                 "Unity"
             ],
@@ -98,8 +110,7 @@
             "start time": "Sep 2019",
             "end time": "Current",
             "description": [
-                "Mentor 2-3 students in introductory courses with weekly check-in meetings",
-                "More details coming soon"
+                "Mentor 3 students in introductory CS courses with bi-weekly check-ins and code reviews"
             ],
             "tags": [
                 "Current",
@@ -220,6 +231,30 @@
     ],
     "projects": [
         {
+            "title": "Pocket Counselor",
+            "position": "Lead Programmer, Product Designer",
+            "organization": "HackHolyoke at Mount Holyoke College ",
+            "location": "South Hadley, MA",
+            "start time": "Nov 2019",
+            "end time": "Nov 2019",
+            "description": [
+                "Propotyped an add-on feature to Google Assistant to help students deal with stress at school through Actions on Google, DialogFlow, and Firebase",
+                "Trained agents to recognize and offer different responses to problems related to schoolwork, relationships, suicidal tendencies, and negative emotions",
+                "Reached 100% improved user experience through live demos with students and faculties in 24 hours"
+            ],
+            "skills": [
+                "JavaScript",
+                "ML"
+            ],
+            "tags": [
+                "Past",
+                "Leadership",
+                "Computer Science"
+            ],
+            "link": "https://devpost.com/software/pocket-counselor",
+            "logo": "assets/image/experience/projects/pocket_counselor.png"
+        },
+        {
             "title": "Untitled Solitaire",
             "position": "Lead Programmer",
             "organization": "Interdisciplinary Game Studio at Hampshire College",
@@ -285,20 +320,21 @@
             "position": "Primary Investigator",
             "location": "Tokyo, Japan",
             "start time": "May 2019",
-            "end time": "Present",
+            "end time": "Oct 2019",
             "description": [
                 "Research contributing factors of and solutions to the gender gap in game development industry",
                 "Collect data in Tokyo, Japan through 7 interviews and 30 existing news and research reports",
-                "Raise public awareness of education for women game developers through social media and workshops"
+                "Raise public awareness of education for women game developers through LEAP Symposium"
             ],
             "tags": [
-                "Current",
+                "Past",
                 "Honors",
                 "Computer Science"
             ],
             "skills": [
                 "Japanese"
             ],
+            "link": "https://leap2019.sched.com/event/WJfj/framing-the-world-through-media",
             "logo": "assets/image/experience/projects/independent_research.png"
         },
         {
