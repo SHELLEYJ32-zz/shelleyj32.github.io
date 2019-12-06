@@ -59,6 +59,29 @@
     ],
     "employment": [
         {
+            "position": "Incoming XR Feature Intern",
+            "organization": "Unity Technologies",
+            "location": "Bellevue, WA",
+            "start time": "May 2020",
+            "end time": "Aug 2020",
+            "description": [
+                "Implement new XR technologies and features in the Unity engine",
+                "Integrate partner technology for both hardware and software platforms",
+                "Participate in design reviews, code reviews, bug fixing, user forums, and feature planning"
+            ],
+            "tags": [
+                "Current",
+                "Computer Science"
+            ],
+            "skills": [
+                "CSharp",
+                "C",
+                "Unity"
+            ],
+            "link": "https://unity.com/solutions/xr",
+            "logo": "assets/image/experience/employment/xr_intern.png"
+        },
+        {
             "position": "Women in Game Programming Teaching Assistant",
             "organization": "Hampshire College",
             "location": "Amherst, MA",
@@ -457,14 +480,13 @@
     ],
     "activities": [
         {
-            "position": "Developer Student Club Founder and Leader",
+            "position": "Developer Student Club Leader",
             "organization": "Google Developers",
             "location": "South Hadley, MA",
             "start time": "Aug 2019",
             "end time": "Present",
             "description": [
-                "(In progress) Found the first Deverloper Student Club on campus and plan monthly events",
-                "More details coming soon"
+                "Proposed to found the first Deverloper Student Club on campus and planned monthly events"
             ],
             "tags": [
                 "Current",
@@ -473,7 +495,7 @@
             ],
             "skills": [
                 "Java",
-                "Python"
+                "JavaScript"
             ],
             "link": "https://developers.google.com/community/dsc/",
             "logo": "assets/image/experience/activities/gdsc.png"
