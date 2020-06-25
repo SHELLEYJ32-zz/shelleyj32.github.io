@@ -254,6 +254,27 @@
     ],
     "projects": [
         {
+            "title": "Movieous",
+            "position": "Product and UI/UX Designer",
+            "organization": "College + Netflix Creative Jam LIVE with Adobe XD",
+            "location": "Remote",
+            "start time": "Jun 2020",
+            "end time": "Jun 2020",
+            "description": [
+                "Propotyped a communal movie watching desktop app with 35 screens with Adobe XD in 24 hours",
+                "Visualized watchrooms that support viewing films and audio/video/text chat simultaneously"
+            ],
+            "skills": [
+                "AdobeXd"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science"
+            ],
+            "link": "https://xd.adobe.com/view/55a2ff27-1eee-4526-826d-fb840d255993-00f1/",
+            "logo": "assets/image/experience/projects/creative_jam.png"
+        },
+        {
             "title": "TreeHole Project",
             "position": "Lead Programmer, Product Designer",
             "organization": "Mobile Software Development",
