@@ -6,7 +6,7 @@
             "location": "South Hadley, MA",
             "degree": "Bachelor of Arts",
             "length": "Sep 2017 - May 2021",
-            "majors": "Computer Science and Film Studies",
+            "majors": "Computer Science and Interactive Media",
             "cs courses": "Algorithms, Advanced Data Structures, Modeling and Simulation, Computing System, Advanced Problem Solving and OOP, Multivariable Calculus, Discrete Mathematics",
             "film courses": "History of World Cinema, Film Theory: Cinema/City",
             "honors": "Mildred L Sanderson Prize for Math Excellence, Louise Appleton Career Development Fund for independent research, Sarah Williston Scholar, Art and Technology Microgrant"
@@ -59,27 +59,52 @@
     ],
     "employment": [
         {
-            "position": "Incoming XR Feature Intern",
+            "position": "XR Feature Intern",
             "organization": "Unity Technologies",
             "location": "Bellevue, WA",
-            "start time": "May 2020",
-            "end time": "Aug 2020",
+            "start time": "Jun 2020",
+            "end time": "Sep 2020",
             "description": [
-                "Implement new XR technologies and features in the Unity engine",
-                "Integrate partner technology for both hardware and software platforms",
-                "Participate in design reviews, code reviews, bug fixing, user forums, and feature planning"
+                "Implemented and shipped samples with new augmented reality features in the Unity engine with C#",
+                "Integrated ARCore SDK features in C++ and implement runtime unit tests in AR Foundation",
+                "Participated in design reviews, code reviews, bug fixing, user forums, and feature planning"
             ],
             "tags": [
-                "Current",
-                "Computer Science"
+                "Past",
+                "Computer Science",
+                "Interactive Media"
             ],
             "skills": [
                 "CSharp",
-                "C",
+                "CPP",
                 "Unity"
             ],
-            "link": "https://unity.com/solutions/xr",
+            "link": "https://github.com/Unity-Technologies/arfoundation-samples",
             "logo": "assets/image/experience/employment/xr_intern.png"
+        },
+        {
+            "position": "Police Use of Force Research Assistant",
+            "organization": "B.E.A.R.S Lab",
+            "location": "South Hadley, MA",
+            "start time": "Sep 2019",
+            "end time": "Mar 2020",
+            "description": [
+                "Maintained and modified Unity virtual reality programmes in C# to examine racial bias in police officers",
+                "Administered virtual reality protocols to participants and monitor automatic research data collection",
+                "Streamlined pupil diameter changes in Java and XML for efficient big data evaluation on eye tracking"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "skills": [
+                "Java",
+                "CSharp",
+                "Unity"
+            ],
+            "link": "https://thebearslab.com",
+            "logo": "assets/image/experience/employment/bears.png"
         },
         {
             "position": "Women in Game Programming Teaching Assistant",
@@ -94,7 +119,8 @@
             "tags": [
                 "Past",
                 "Leadership",
-                "Computer Science"
+                "Computer Science",
+                "Interactive Media"
             ],
             "skills": [
                 "CSharp",
@@ -102,29 +128,6 @@
             ],
             "link": "http://irafay.com/classes/CS181/",
             "logo": "assets/image/experience/employment/game_ta.png"
-        },
-        {
-            "position": "Police Use of Force Research Assistant",
-            "organization": "B.E.A.R.S Lab",
-            "location": "South Hadley, MA",
-            "start time": "Sep 2019",
-            "end time": "Dec 2019",
-            "description": [
-                "Maintained and modified Unity virtual reality programmes in C# to examine racial bias in police officers",
-                "Administered virtual reality protocols to participants and monitor automatic research data collection",
-                "Streamlined pupil diameter changes in Java and XML for efficient big data evaluation on eye tracking"
-            ],
-            "tags": [
-                "Past",
-                "Computer Science"
-            ],
-            "skills": [
-                "Java",
-                "CSharp",
-                "Unity"
-            ],
-            "link": "https://thebearslab.com",
-            "logo": "assets/image/experience/employment/bears.png"
         },
         {
             "position": "Mentoring Teaching Assistant",
@@ -158,7 +161,8 @@
             "tags": [
                 "Past",
                 "Leadership",
-                "Computer Science"
+                "Computer Science",
+                "Interactive Media"
             ],
             "skills": [
                 "CSharp",
@@ -222,7 +226,7 @@
             "tags": [
                 "Past",
                 "Leadership",
-                "Film and Media Studies"
+                "Interactive Media"
             ],
             "skills": [
                 "AdobePr",
@@ -269,7 +273,8 @@
             ],
             "tags": [
                 "Past",
-                "Computer Science"
+                "Computer Science",
+                "Interactive Media"
             ],
             "link": "https://xd.adobe.com/view/55a2ff27-1eee-4526-826d-fb840d255993-00f1/",
             "logo": "assets/image/experience/projects/creative_jam.png"
@@ -316,7 +321,8 @@
             ],
             "tags": [
                 "Past",
-                "Film and Media Studies"
+                "Film and Media Studies",
+                "Interactive Media"
             ],
             "link": "https://vimeo.com/427185214",
             "logo": "assets/image/experience/projects/equestrian.png"
@@ -366,7 +372,8 @@
             "tags": [
                 "Past",
                 "Leadership",
-                "Computer Science"
+                "Computer Science",
+                "Interactive Media"
             ],
             "link": "http://irafay.com/classes/CS327/",
             "github": "https://github.com/HampshireCollegeCompSci/cs327_f2019",
@@ -395,7 +402,8 @@
             ],
             "tags": [
                 "Current",
-                "Computer Science"
+                "Computer Science",
+                "Interactive Media"
             ],
             "link": "https://shanjiang.dev",
             "github": "https://github.com/SHELLEYJ32/shelleyj32.github.io",
@@ -420,7 +428,8 @@
             "tags": [
                 "Past",
                 "Honors",
-                "Computer Science"
+                "Computer Science",
+                "Interactive Media"
             ],
             "skills": [
                 "Japanese"
@@ -467,7 +476,8 @@
             ],
             "tags": [
                 "Past",
-                "Computer Science"
+                "Computer Science",
+                "Interactive Media"
             ],
             "link": "https://creatorreda.wixsite.com/ptotl",
             "github": "https://github.com/SHELLEYJ32/PlsTurnOffTheLights",
@@ -492,7 +502,8 @@
             ],
             "tags": [
                 "Past",
-                "Computer Science"
+                "Computer Science",
+                "Interactive Media"
             ],
             "link": "https://herdingchats.wixsite.com/mysite",
             "github": "https://github.com/SHELLEYJ32/HerdingChats3",
@@ -540,13 +551,35 @@
                 "Past",
                 "Honors",
                 "Leadership",
-                "Computer Science"
+                "Computer Science",
+                "Interactive Media"
             ],
             "github": "https://github.com/RCBMcBane/BluePuddleCats",
             "logo": "assets/image/experience/projects/sorting_game.png"
         }
     ],
     "activities": [
+        {
+            "position": "Network and Community Team Member",
+            "organization": "Computer Science Society at Mount Holyoke College",
+            "location": "South Hadley, MA",
+            "start time": "Feb 2019",
+            "end time": "Present",
+            "description": [
+                "Improved peer mentoring experience through initiating the design of Q&A boards and buddy system",
+                "Supported the foundation of the first Data Science club via outreach to over ten STEM organizations"
+            ],
+            "tags": [
+                "Current",
+                "Leadership",
+                "Computer Science"
+            ],
+            "skills": [
+                "AdobePs"
+            ],
+            "link": "https://www.facebook.com/mhcompsci/",
+            "logo": "assets/image/experience/activities/css_network.png"
+        },
         {
             "position": "Developer Student Club Leader",
             "organization": "Google Developers",
@@ -607,27 +640,6 @@
             ],
             "link": "https://www.fivecolleges.edu/calendar-of-events/listings/node/225444",
             "logo": "assets/image/experience/activities/5c_film_conference.png"
-        },
-        {
-            "position": "Network Team Member",
-            "organization": "Computer Science Society at Mount Holyoke College",
-            "location": "South Hadley, MA",
-            "start time": "Feb 2019",
-            "end time": "Present",
-            "description": [
-                "Improved peer mentoring experience through initiating the design of Q&A boards ",
-                "Supported the foundation of the first Data Science club via outreach to over ten STEM organizations"
-            ],
-            "tags": [
-                "Current",
-                "Leadership",
-                "Computer Science"
-            ],
-            "skills": [
-                "AdobePs"
-            ],
-            "link": "https://www.facebook.com/mhcompsci/",
-            "logo": "assets/image/experience/activities/css_network.png"
         },
         {
             "position": "Girls in Tech Conference Volunteer",
