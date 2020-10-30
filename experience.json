@@ -7,7 +7,7 @@
             "degree": "Bachelor of Arts",
             "length": "Sep 2017 - May 2021",
             "majors": "Computer Science and Interactive Media",
-            "cs courses": "Algorithms, Advanced Data Structures, Modeling and Simulation, Computing System, Advanced Problem Solving and OOP, Multivariable Calculus, Discrete Mathematics",
+            "cs courses": "Algorithms, Operating Systems, Advanced Data Structures, Modeling and Simulation, Computing System, Advanced Problem Solving and OOP, Multivariable Calculus, Discrete Mathematics",
             "film courses": "History of World Cinema, Film Theory: Cinema/City",
             "honors": "Mildred L Sanderson Prize for Math Excellence, Louise Appleton Career Development Fund for independent research, Sarah Williston Scholar, Art and Technology Microgrant"
         },
@@ -89,9 +89,9 @@
             "start time": "Sep 2019",
             "end time": "Mar 2020",
             "description": [
-                "Maintained and modified Unity virtual reality programmes in C# to examine racial bias in police officers",
-                "Administered virtual reality protocols to participants and monitor automatic research data collection",
-                "Streamlined pupil diameter changes in Java and XML for efficient big data evaluation on eye tracking"
+                "Maintained and modified Unity VR programmes in C# to examine racial bias in police officers",
+                "Administered VR protocols to participants and monitor automatic research data collection",
+                "Streamlined pupil diameters in Java and XML for efficient big data evaluation on eye tracking"
             ],
             "tags": [
                 "Past",
@@ -258,6 +258,55 @@
     ],
     "projects": [
         {
+            "title": "AR Tour Guide",
+            "position": "AR Programmer, Product and UI Designer",
+            "organization": "Independent Studies at Mount Holyoke College",
+            "location": "Allston, MA",
+            "start time": "Aug 2020",
+            "end time": "Oct 2020",
+            "description": [
+                "Prototyped an AR mobile app for self-touring college campus with Unity AR Foundation in C#",
+                "Implemented Image Tracking and prefab matching features upon internship contributions",
+                "Created easily scalable content structure and customized Inspector UI for intuitive user input"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity",
+                "Git"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "github": "https://github.com/SHELLEYJ32/ARTourGuideApp",
+            "logo": "assets/image/experience/projects/ar_tour_guide.png"
+        },
+        {
+            "title": "Fire Painter",
+            "position": "Game Artist",
+            "organization": "Intern Game Jam at Unity Tehnologies",
+            "location": "Remote",
+            "start time": "Aug 2020",
+            "end time": "Aug 2020",
+            "description": [
+                "Collaborate with 3 students to design, develop, and publish a web multi-player game in 24 hours",
+                "Implemented UI in Unity, co-created game art assets with team members, and performed rapid tests"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity",
+                "Git"
+            ],
+            "tags": [
+                "Past",
+                "Interactive Media"
+            ],
+            "link": "https://arnaudparevogt-unity.itch.io/firepainter",
+            "github": "https://github.com/arnaudparevogt-unity/firepainter",
+            "logo": "assets/image/experience/projects/fire_painter.png"
+        },
+        {
             "title": "Movieous",
             "position": "Product and UI/UX Designer",
             "organization": "College + Netflix Creative Jam LIVE with Adobe XD",
@@ -273,7 +322,6 @@
             ],
             "tags": [
                 "Past",
-                "Computer Science",
                 "Interactive Media"
             ],
             "link": "https://xd.adobe.com/view/55a2ff27-1eee-4526-826d-fb840d255993-00f1/",
@@ -298,7 +346,8 @@
             ],
             "tags": [
                 "Past",
-                "Computer Science"
+                "Computer Science",
+                "Interactive Media"
             ],
             "link": "https://www.youtube.com/watch?v=FdJxImAoT04",
             "logo": "assets/image/experience/projects/treehole.png"
@@ -321,6 +370,7 @@
             ],
             "tags": [
                 "Past",
+                "Computer Science",
                 "Film and Media Studies",
                 "Interactive Media"
             ],
@@ -359,10 +409,10 @@
             "start time": "Sep 2019",
             "end time": "May 2020",
             "description": [
-                "Collaborate with 30 students to design, develop, and publish a mobile Unity game in 13 weeks",
-                "Oversee game execution through GitHub and Unity Cloud and monitor version control through Git",
-                "Lead 6 programmers, design cross-team pipelines and develop Technical Design Document",
-                "Optimize graphics rendering, implement UI, and conceptualize gameplay elements with the lead designer"
+                "Collaborated with 30 students to design, develop, and publish a mobile Unity game in 13 weeks",
+                "Oversaw game execution through GitHub and Unity Cloud and monitored version control through Git",
+                "Lead 6 programmers, designed cross-team pipelines and developed Technical Design Document",
+                "Optimized graphics rendering, implemented UI, and conceptualized gameplay elements with the lead designer"
             ],
             "skills": [
                 "CSharp",
@@ -421,9 +471,9 @@
             "start time": "May 2019",
             "end time": "Oct 2019",
             "description": [
-                "Research contributing factors of and solutions to the gender gap in game development industry",
-                "Collect data in Tokyo, Japan through 7 interviews and 30 existing news and research reports",
-                "Raise public awareness of education for women game developers through LEAP Symposium"
+                "Researched contributing factors of and solutions to the gender gap in game development industry",
+                "Collected data in Tokyo, Japan through 7 interviews and 30 existing news and research reports",
+                "Raised public awareness of education for women game developers through LEAP Symposium"
             ],
             "tags": [
                 "Past",
@@ -567,7 +617,7 @@
             "end time": "Present",
             "description": [
                 "Improved peer mentoring experience through initiating the design of Q&A boards and buddy system",
-                "Supported the foundation of the first Data Science club via outreach to over ten STEM organizations"
+                "Supported foundation of the first Data Science club via outreach to over ten STEM organizations"
             ],
             "tags": [
                 "Current",

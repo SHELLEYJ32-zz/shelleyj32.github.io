@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.8894551f.chunk.css",
-  "main.js": "/static/js/main.d80cd61f.chunk.js",
-  "main.js.map": "/static/js/main.d80cd61f.chunk.js.map",
+  "main.js": "/static/js/main.56be402a.chunk.js",
+  "main.js.map": "/static/js/main.56be402a.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.1b922744.js",
   "runtime~main.js.map": "/static/js/runtime~main.1b922744.js.map",
   "vendors~main.js": "/static/js/vendors~main.b9063112.chunk.js",
@@ -35,8 +35,10 @@
   "assets/image/experience/employment/mage.png": "/assets/image/experience/employment/mage.png",
   "assets/image/experience/employment/mews.png": "/assets/image/experience/employment/mews.png",
   "assets/image/experience/employment/xr_intern.png": "/assets/image/experience/employment/xr_intern.png",
+  "assets/image/experience/projects/ar_tour_guide.png": "/assets/image/experience/projects/ar_tour_guide.png",
   "assets/image/experience/projects/creative_jam.png": "/assets/image/experience/projects/creative_jam.png",
   "assets/image/experience/projects/equestrian.png": "/assets/image/experience/projects/equestrian.png",
+  "assets/image/experience/projects/fire_painter.png": "/assets/image/experience/projects/fire_painter.png",
   "assets/image/experience/projects/herding_chats.png": "/assets/image/experience/projects/herding_chats.png",
   "assets/image/experience/projects/independent_research.png": "/assets/image/experience/projects/independent_research.png",
   "assets/image/experience/projects/leverett.png": "/assets/image/experience/projects/leverett.png",
@@ -60,6 +62,6 @@
   "index.html": "/index.html",
   "logo.svg": "/logo.svg",
   "manifest.json": "/manifest.json",
-  "precache-manifest.50b028eadf07bb396ef11825629079c4.js": "/precache-manifest.50b028eadf07bb396ef11825629079c4.js",
+  "precache-manifest.df92a3be3ccc9fa0a89e18fa16fc0b1c.js": "/precache-manifest.df92a3be3ccc9fa0a89e18fa16fc0b1c.js",
   "static/media/main.css": "/static/media/kabel.b7ed399e.otf"
 }
