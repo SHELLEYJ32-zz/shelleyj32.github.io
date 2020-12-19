@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.8894551f.chunk.css",
-  "main.js": "/static/js/main.56be402a.chunk.js",
-  "main.js.map": "/static/js/main.56be402a.chunk.js.map",
+  "main.js": "/static/js/main.3463d7bf.chunk.js",
+  "main.js.map": "/static/js/main.3463d7bf.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.1b922744.js",
   "runtime~main.js.map": "/static/js/runtime~main.1b922744.js.map",
   "vendors~main.js": "/static/js/vendors~main.b9063112.chunk.js",
@@ -45,6 +45,7 @@
   "assets/image/experience/projects/pocket_counselor.png": "/assets/image/experience/projects/pocket_counselor.png",
   "assets/image/experience/projects/portfolio.png": "/assets/image/experience/projects/portfolio.png",
   "assets/image/experience/projects/ptotl.png": "/assets/image/experience/projects/ptotl.png",
+  "assets/image/experience/projects/shell.png": "/assets/image/experience/projects/shell.png",
   "assets/image/experience/projects/simulator.png": "/assets/image/experience/projects/simulator.png",
   "assets/image/experience/projects/solitaire.png": "/assets/image/experience/projects/solitaire.png",
   "assets/image/experience/projects/sorting_game.png": "/assets/image/experience/projects/sorting_game.png",
@@ -62,6 +63,6 @@
   "index.html": "/index.html",
   "logo.svg": "/logo.svg",
   "manifest.json": "/manifest.json",
-  "precache-manifest.df92a3be3ccc9fa0a89e18fa16fc0b1c.js": "/precache-manifest.df92a3be3ccc9fa0a89e18fa16fc0b1c.js",
+  "precache-manifest.86389112eb0bf74a6053e498f61bacb0.js": "/precache-manifest.86389112eb0bf74a6053e498f61bacb0.js",
   "static/media/main.css": "/static/media/kabel.b7ed399e.otf"
 }

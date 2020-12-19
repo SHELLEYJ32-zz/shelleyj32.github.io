@@ -258,6 +258,27 @@
     ],
     "projects": [
         {
+            "title": "Build my own Shell",
+            "position": "C Programmer",
+            "organization": "Operating Systems at Mount Holyoke College",
+            "location": "Allston, MA",
+            "start time": "Nov 2020",
+            "end time": "Dec 2020",
+            "description": [
+                "Implemented a basic Shell in C on Linux capable of processing built-in commands, such as exit, cd, set, unset, and pwd, and executing external programs in foreground and background with fork and exec",
+                "Tokenized user input char by char to be compatible with special characters and variable substitution and supported arrow keys for history access and tab for auto completion and debugged for memory leak"
+            ],
+            "skills": [
+                "C",
+                "Linux"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science"
+            ],
+            "logo": "assets/image/experience/projects/shell.png"
+        },
+        {
             "title": "AR Tour Guide",
             "position": "AR Programmer, Product and UI Designer",
             "organization": "Independent Studies at Mount Holyoke College",
@@ -425,7 +446,7 @@
                 "Computer Science",
                 "Interactive Media"
             ],
-            "link": "http://irafay.com/classes/CS327/",
+            "link": "https://creatorreda.wixsite.com/cosmia",
             "github": "https://github.com/HampshireCollegeCompSci/cs327_f2019",
             "logo": "assets/image/experience/projects/solitaire.png"
         },
