@@ -59,6 +59,27 @@
     ],
     "employment": [
         {
+            "position": "Software Engineer Intern",
+            "organization": "Psychic VR Lab",
+            "location": "Tokyo, Japan",
+            "start time": "May 2021",
+            "end time": "Present",
+            "description": [
+                "(Coming soon)"
+            ],
+            "tags": [
+                "Current",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity"
+            ],
+            "link": "https://styly.cc/",
+            "logo": "assets/image/experience/employment/styly.png"
+        },
+        {
             "position": "XR Feature Intern",
             "organization": "Unity Technologies",
             "location": "Bellevue, WA",
@@ -204,7 +225,7 @@
             ],
             "tags": [
                 "Past",
-                "Film and Media Studies"
+                "Interactive Media"
             ],
             "skills": [
                 "HTML",
@@ -257,6 +278,30 @@
         }
     ],
     "projects": [
+        {
+            "title": "Blanch Menu App",
+            "position": "Project Manager, Programmer",
+            "organization": "Developing Innovative Software",
+            "location": "Changzhou, China",
+            "start time": "Mar 2021",
+            "end time": "May 2021",
+            "description": [
+                "Propotyped and impletmented a social mobile app for campus dining with Flutter and Dart",
+                "Integrated with Firebase for school email authentication, post database, and administration"
+            ],
+            "skills": [
+                "Flutter",
+                "Dart",
+                "Figma"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "github": "https://github.com/fowle22d/blanch_menu_app",
+            "logo": "assets/image/experience/projects/blanch_menu_app.png"
+        },
         {
             "title": "Build my own Shell",
             "position": "C Programmer",
@@ -392,7 +437,6 @@
             "tags": [
                 "Past",
                 "Computer Science",
-                "Film and Media Studies",
                 "Interactive Media"
             ],
             "link": "https://vimeo.com/427185214",
@@ -593,7 +637,7 @@
             "tags": [
                 "Past",
                 "Volunteer",
-                "Film and Media Studies"
+                "Interactive Media"
             ],
             "skills": [
                 "AdobePr"
@@ -684,7 +728,7 @@
             "tags": [
                 "Past",
                 "Leadership",
-                "Film and Media Studies"
+                "Interactive Media"
             ],
             "skills": [
                 "Chinese"
@@ -704,7 +748,7 @@
             "tags": [
                 "Past",
                 "Leadership",
-                "Film and Media Studies"
+                "Interactive Media"
             ],
             "skills": [
                 "Chinese"
