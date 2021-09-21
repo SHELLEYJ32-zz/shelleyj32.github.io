@@ -1,11 +1,11 @@
 {
-  "main.css": "/static/css/main.8894551f.chunk.css",
-  "main.js": "/static/js/main.12db1550.chunk.js",
-  "main.js.map": "/static/js/main.12db1550.chunk.js.map",
+  "main.css": "/static/css/main.0eb0d63f.chunk.css",
+  "main.js": "/static/js/main.1492a9b8.chunk.js",
+  "main.js.map": "/static/js/main.1492a9b8.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.1b922744.js",
   "runtime~main.js.map": "/static/js/runtime~main.1b922744.js.map",
-  "vendors~main.js": "/static/js/vendors~main.b9063112.chunk.js",
-  "vendors~main.js.map": "/static/js/vendors~main.b9063112.chunk.js.map",
+  "vendors~main.js": "/static/js/vendors~main.0b49ec49.chunk.js",
+  "vendors~main.js.map": "/static/js/vendors~main.0b49ec49.chunk.js.map",
   "./service-worker.js": "/./service-worker.js",
   "assets/font/LetterGothicStd-Bold.otf": "/assets/font/LetterGothicStd-Bold.otf",
   "assets/font/LetterGothicStd-BoldSlanted.otf": "/assets/font/LetterGothicStd-BoldSlanted.otf",
@@ -25,6 +25,7 @@
   "assets/image/experience/education/UCLA logo.jpeg": "/assets/image/experience/education/UCLA logo.jpeg",
   "assets/image/experience/education/UMass logo.png": "/assets/image/experience/education/UMass logo.png",
   "assets/image/experience/education/amherst logo.png": "/assets/image/experience/education/amherst logo.png",
+  "assets/image/experience/education/cmu logo.png": "/assets/image/experience/education/cmu logo.png",
   "assets/image/experience/education/hampshire logo.png": "/assets/image/experience/education/hampshire logo.png",
   "assets/image/experience/education/smith logo.png": "/assets/image/experience/education/smith logo.png",
   "assets/image/experience/employment/bears.png": "/assets/image/experience/employment/bears.png",
@@ -44,6 +45,7 @@
   "assets/image/experience/projects/herding_chats.png": "/assets/image/experience/projects/herding_chats.png",
   "assets/image/experience/projects/independent_research.png": "/assets/image/experience/projects/independent_research.png",
   "assets/image/experience/projects/leverett.png": "/assets/image/experience/projects/leverett.png",
+  "assets/image/experience/projects/once_upon_a_wolf.png": "/assets/image/experience/projects/once_upon_a_wolf.png",
   "assets/image/experience/projects/pocket_counselor.png": "/assets/image/experience/projects/pocket_counselor.png",
   "assets/image/experience/projects/portfolio.png": "/assets/image/experience/projects/portfolio.png",
   "assets/image/experience/projects/ptotl.png": "/assets/image/experience/projects/ptotl.png",
@@ -65,6 +67,6 @@
   "index.html": "/index.html",
   "logo.svg": "/logo.svg",
   "manifest.json": "/manifest.json",
-  "precache-manifest.d9b735dd05a54f5bf2be2aa69ba40d97.js": "/precache-manifest.d9b735dd05a54f5bf2be2aa69ba40d97.js",
-  "static/media/main.css": "/static/media/kabel.b7ed399e.otf"
+  "precache-manifest.3a11d99349d08e8afa81ef188220102b.js": "/precache-manifest.3a11d99349d08e8afa81ef188220102b.js",
+  "static/media/main.css": "/static/media/kabel.9b57dfa0.otf"
 }

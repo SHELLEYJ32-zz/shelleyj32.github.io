@@ -1,6 +1,15 @@
 {
     "education": [
         {
+            "name": "Carnegie Mellon University",
+            "logo": "assets/image/experience/education/cmu logo.png",
+            "location": "Pittsburgh, PA",
+            "degree": "Masters of Entertainment Technology",
+            "length": "Sep 2021 - May 2023",
+            "cs courses": "Building Virtual Worlds",
+            "film courses": "Visual Story, Improvasational Acting"
+        },
+        {
             "name": "Mount Holyoke College",
             "logo": "assets/image/experience/education/MHC logo.png",
             "location": "South Hadley, MA",
@@ -59,13 +68,14 @@
     ],
     "employment": [
         {
-            "position": "Software Engineer Intern",
+            "position": "Mobile Software Engineer Intern",
             "organization": "Psychic VR Lab",
             "location": "Tokyo, Japan",
             "start time": "May 2021",
-            "end time": "Present",
+            "end time": "Jul 2021",
             "description": [
-                "(Coming soon)"
+                "Prototyped their STYLY website into an iPad app that allows users to build and preview AR/VR worlds",
+                "Integrated runtime transform handler, camera touch control and save/load system for each world"
             ],
             "tags": [
                 "Current",
@@ -278,6 +288,27 @@
         }
     ],
     "projects": [
+        {
+            "title": "Once Upon a Wolf",
+            "position": "Game Programmer",
+            "organization": "Building Virtual Worlds",
+            "location": "Pittsburgh",
+            "start time": "Spe 2021",
+            "end time": "Sep 2021",
+            "description": [
+                "Propotyped and impletmented a mixed reality interactive puzzle game in Unity and HoloLens2"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "logo": "assets/image/experience/projects/once_upon_a_wolf.png"
+        },
         {
             "title": "Blanch Menu App",
             "position": "Project Manager, Programmer",
