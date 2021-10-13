@@ -20,6 +20,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/font/kabel.otf"
   },
   {
+    "revision": "a35650d8f1749ddb7bb67e257b267872",
+    "url": "/assets/image/experience/.DS_Store"
+  },
+  {
     "revision": "0e424d009d07e6603bfd3841761e0659",
     "url": "/assets/image/experience/activities/5c_film_conference.png"
   },
@@ -72,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/image/experience/education/amherst logo.png"
   },
   {
+    "revision": "7b82720ff59f43d7a5de70f56a8ee24c",
+    "url": "/assets/image/experience/education/cmu logo.png"
+  },
+  {
     "revision": "12a2f08158beb85a9f2fc362b06feae7",
     "url": "/assets/image/experience/education/hampshire logo.png"
   },
@@ -108,12 +116,64 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/image/experience/employment/mews.png"
   },
   {
+    "revision": "6227653e9016af5acdea2bf52f9c089c",
+    "url": "/assets/image/experience/employment/styly.png"
+  },
+  {
     "revision": "7f7eda43c4c4ddf60264df5ac5496609",
     "url": "/assets/image/experience/employment/xr_intern.png"
   },
   {
     "revision": "7f7eda43c4c4ddf60264df5ac5496609",
+    "url": "/assets/image/experience/justGames/colorplus.png"
+  },
+  {
+    "revision": "7f7eda43c4c4ddf60264df5ac5496609",
+    "url": "/assets/image/experience/justGames/fire_painter.png"
+  },
+  {
+    "revision": "7f7eda43c4c4ddf60264df5ac5496609",
+    "url": "/assets/image/experience/justGames/herding_chats.png"
+  },
+  {
+    "revision": "8d95a4ae603a7ce5bacdd6b4521e792c",
+    "url": "/assets/image/experience/justGames/imhome.png"
+  },
+  {
+    "revision": "7f7eda43c4c4ddf60264df5ac5496609",
+    "url": "/assets/image/experience/justGames/once_upon_a_wolf.png"
+  },
+  {
+    "revision": "7f7eda43c4c4ddf60264df5ac5496609",
+    "url": "/assets/image/experience/justGames/ptotl.png"
+  },
+  {
+    "revision": "7f7eda43c4c4ddf60264df5ac5496609",
+    "url": "/assets/image/experience/justGames/solitaire.png"
+  },
+  {
+    "revision": "29f1d17970bd4ad7c1e75fc94252345e",
+    "url": "/assets/image/experience/justGames/sorting_game.png"
+  },
+  {
+    "revision": "7f7eda43c4c4ddf60264df5ac5496609",
+    "url": "/assets/image/experience/justGames/spider_solitaire.png"
+  },
+  {
+    "revision": "8d95a4ae603a7ce5bacdd6b4521e792c",
+    "url": "/assets/image/experience/justGames/twinkle.png"
+  },
+  {
+    "revision": "194577a7e20bdcc7afbb718f502c134c",
+    "url": "/assets/image/experience/projects/.DS_Store"
+  },
+  {
+    "revision": "7f7eda43c4c4ddf60264df5ac5496609",
     "url": "/assets/image/experience/projects/ar_tour_guide.png"
+  },
+  {
+    "revision": "ac6643e516791cc4b92afba0c3e82d17",
+    "url": "/assets/image/experience/projects/blanch_menu_app.png"
   },
   {
     "revision": "f01baa2308102e738b5d05b90fc2a19b",
@@ -122,14 +182,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8d95a4ae603a7ce5bacdd6b4521e792c",
     "url": "/assets/image/experience/projects/equestrian.png"
-  },
-  {
-    "revision": "7f7eda43c4c4ddf60264df5ac5496609",
-    "url": "/assets/image/experience/projects/fire_painter.png"
-  },
-  {
-    "revision": "7f7eda43c4c4ddf60264df5ac5496609",
-    "url": "/assets/image/experience/projects/herding_chats.png"
   },
   {
     "revision": "232fcac39a585550e804b805aecc10a2",
@@ -148,10 +200,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/image/experience/projects/portfolio.png"
   },
   {
-    "revision": "7f7eda43c4c4ddf60264df5ac5496609",
-    "url": "/assets/image/experience/projects/ptotl.png"
-  },
-  {
     "revision": "f4b9e1a0c7be6a46899a083184a29aec",
     "url": "/assets/image/experience/projects/shell.png"
   },
@@ -160,31 +208,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/image/experience/projects/simulator.png"
   },
   {
-    "revision": "7f7eda43c4c4ddf60264df5ac5496609",
-    "url": "/assets/image/experience/projects/solitaire.png"
-  },
-  {
-    "revision": "29f1d17970bd4ad7c1e75fc94252345e",
-    "url": "/assets/image/experience/projects/sorting_game.png"
-  },
-  {
     "revision": "c5b4b23e9058fc3d79f30a2150309568",
     "url": "/assets/image/experience/projects/treehole.png"
   },
   {
-    "revision": "077ed9b090ef2b005389f203266c19db",
+    "revision": "94bb1218b146def289b114d3d98db211",
     "url": "/assets/image/home/code intro landscape.png"
   },
   {
-    "revision": "207ba441be658cf286b97e4d7544c11f",
+    "revision": "e34de6c26b88e6392e1e63dae4af4043",
     "url": "/assets/image/home/code intro landscape@2x.png"
   },
   {
-    "revision": "70bf9a4d69ebcaea7d9530f38fd67467",
+    "revision": "f9d323c5ede1285b7e73a0d6531f5d37",
     "url": "/assets/image/home/code intro portrait.png"
   },
   {
-    "revision": "e936f86007fc1053820565a886711259",
+    "revision": "35762776ac9f85c41cb052bbe186b06d",
     "url": "/assets/image/home/code intro portrait@2x.png"
   },
   {
@@ -204,7 +244,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assets/image/home/tab@2x.png"
   },
   {
-    "revision": "2f5dc0400338cf05de8eb372b19fc58f",
+    "revision": "ab2abacf0735180474736e9f39cc0edf",
     "url": "/experience.json"
   },
   {
@@ -212,7 +252,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/favicon.ico"
   },
   {
-    "revision": "c4e93ab31a7fe37c7f6f7532baceb58f",
+    "revision": "d0a423288f3f6c0c289c2bb6724ae875",
     "url": "/index.html"
   },
   {
@@ -224,23 +264,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/manifest.json"
   },
   {
-    "revision": "3463d7bf10918c99efec",
-    "url": "/static/css/main.8894551f.chunk.css"
+    "revision": "50089bac59f575cc2311",
+    "url": "/static/css/main.0eb0d63f.chunk.css"
   },
   {
-    "revision": "3463d7bf10918c99efec",
-    "url": "/static/js/main.3463d7bf.chunk.js"
+    "revision": "50089bac59f575cc2311",
+    "url": "/static/js/main.50089bac.chunk.js"
   },
   {
     "revision": "1b922744246c39b6bc43",
     "url": "/static/js/runtime~main.1b922744.js"
   },
   {
-    "revision": "b9063112a1dd4b93007d",
-    "url": "/static/js/vendors~main.b9063112.chunk.js"
+    "revision": "0b49ec49a892799f59f3",
+    "url": "/static/js/vendors~main.0b49ec49.chunk.js"
   },
   {
     "revision": "b7ed399ef1e96f31eafafade6c426c51",
-    "url": "/static/media/kabel.b7ed399e.otf"
+    "url": "/static/media/kabel.9b57dfa0.otf"
   }
 ]);
