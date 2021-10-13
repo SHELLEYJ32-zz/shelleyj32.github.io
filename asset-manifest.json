@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.0eb0d63f.chunk.css",
-  "main.js": "/static/js/main.50089bac.chunk.js",
-  "main.js.map": "/static/js/main.50089bac.chunk.js.map",
+  "main.js": "/static/js/main.4b52a92b.chunk.js",
+  "main.js.map": "/static/js/main.4b52a92b.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.1b922744.js",
   "runtime~main.js.map": "/static/js/runtime~main.1b922744.js.map",
   "vendors~main.js": "/static/js/vendors~main.0b49ec49.chunk.js",
@@ -38,13 +38,14 @@
   "assets/image/experience/employment/mews.png": "/assets/image/experience/employment/mews.png",
   "assets/image/experience/employment/styly.png": "/assets/image/experience/employment/styly.png",
   "assets/image/experience/employment/xr_intern.png": "/assets/image/experience/employment/xr_intern.png",
+  "assets/image/experience/justGames/.DS_Store": "/assets/image/experience/justGames/.DS_Store",
   "assets/image/experience/justGames/colorplus.png": "/assets/image/experience/justGames/colorplus.png",
+  "assets/image/experience/justGames/cosmia.png": "/assets/image/experience/justGames/cosmia.png",
   "assets/image/experience/justGames/fire_painter.png": "/assets/image/experience/justGames/fire_painter.png",
   "assets/image/experience/justGames/herding_chats.png": "/assets/image/experience/justGames/herding_chats.png",
   "assets/image/experience/justGames/imhome.png": "/assets/image/experience/justGames/imhome.png",
   "assets/image/experience/justGames/once_upon_a_wolf.png": "/assets/image/experience/justGames/once_upon_a_wolf.png",
   "assets/image/experience/justGames/ptotl.png": "/assets/image/experience/justGames/ptotl.png",
-  "assets/image/experience/justGames/solitaire.png": "/assets/image/experience/justGames/solitaire.png",
   "assets/image/experience/justGames/sorting_game.png": "/assets/image/experience/justGames/sorting_game.png",
   "assets/image/experience/justGames/spider_solitaire.png": "/assets/image/experience/justGames/spider_solitaire.png",
   "assets/image/experience/justGames/twinkle.png": "/assets/image/experience/justGames/twinkle.png",
@@ -73,6 +74,6 @@
   "index.html": "/index.html",
   "logo.svg": "/logo.svg",
   "manifest.json": "/manifest.json",
-  "precache-manifest.a1ca374ef245eb1582d2add5800f7e3f.js": "/precache-manifest.a1ca374ef245eb1582d2add5800f7e3f.js",
+  "precache-manifest.ac61ebd22334ae8f04d197793913c316.js": "/precache-manifest.ac61ebd22334ae8f04d197793913c316.js",
   "static/media/main.css": "/static/media/kabel.9b57dfa0.otf"
 }

@@ -356,6 +356,7 @@
                 "Interactive Media"
             ],
             "github": "https://github.com/SHELLEYJ32/ARTourGuideApp",
+            "media": "https://drive.google.com/file/d/1dPduaf5ItzMoBCjWew9pnURzyKo03J0b/view?usp=sharing",
             "logo": "assets/image/experience/projects/ar_tour_guide.png"
         },
         
@@ -402,7 +403,7 @@
                 "Computer Science",
                 "Interactive Media"
             ],
-            "link": "https://www.youtube.com/watch?v=FdJxImAoT04",
+            "media": "https://www.youtube.com/watch?v=FdJxImAoT04",
             "logo": "assets/image/experience/projects/treehole.png"
         },
         {
@@ -426,7 +427,7 @@
                 "Computer Science",
                 "Interactive Media"
             ],
-            "link": "https://vimeo.com/427185214",
+            "media": "https://vimeo.com/427185214",
             "logo": "assets/image/experience/projects/equestrian.png"
         },
         {
@@ -726,8 +727,7 @@
             "start time": "Oct 2021",
             "end time": "Oct 2021",
             "description": [
-                "Propotyped a virtual reality interactive puzzle game in Unity and Oculus Quest 2",
-                "Integrated Oculus hand tracking functionality such as pinching and grabbing",
+                "Propotyped a virtual reality interactive puzzle game in Unity and Oculus Quest 2 with integrated hand tracking functionality such as pinching and grabbing",
                 "Collaborated within five-person interdiscplinary team for production within one week"
             ],
             "skills": [
@@ -808,6 +808,7 @@
             ],
             "link": "https://arnaudparevogt-unity.itch.io/firepainter",
             "github": "https://github.com/arnaudparevogt-unity/firepainter",
+            "media": "https://youtu.be/R7fIe-FcMko",
             "logo": "assets/image/experience/justGames/fire_painter.png"
         },
         {
@@ -836,7 +837,8 @@
             ],
             "link": "https://creatorreda.wixsite.com/cosmia",
             "github": "https://github.com/HampshireCollegeCompSci/cs327_f2019",
-            "logo": "assets/image/experience/justGames/solitaire.png"
+            "media": "https://drive.google.com/file/d/1AU2n4RProCWQPwRfxEsLBkBg_lkdBhxo/view?usp=sharing",
+            "logo": "assets/image/experience/justGames/cosmia.png"
         },{
             "title": "Spider Solitaire",
             "position": "Game Programmer",
@@ -883,6 +885,7 @@
             ],
             "link": "https://creatorreda.wixsite.com/ptotl",
             "github": "https://github.com/SHELLEYJ32/PlsTurnOffTheLights",
+            "media": "https://creatorreda.wixsite.com/ptotl?wix-vod-video-id=8156ecf150224f25a1f340ea8fa60135&wix-vod-comp-id=comp-jtyinsw0",
             "logo": "assets/image/experience/justGames/ptotl.png"
         },
         {
@@ -909,6 +912,7 @@
             ],
             "link": "https://herdingchats.wixsite.com/mysite",
             "github": "https://github.com/SHELLEYJ32/HerdingChats3",
+            "media": "https://youtu.be/zdYUjfqdybA",
             "logo": "assets/image/experience/justGames/herding_chats.png"
         },{
             "title": "Color Plus",
@@ -958,6 +962,7 @@
                 "Interactive Media"
             ],
             "github": "https://github.com/RCBMcBane/BluePuddleCats",
+            "media": "https://drive.google.com/file/d/1umL6TZyc3MlPw0uY6xfF0HJooz11LgAi/view?usp=sharing",
             "logo": "assets/image/experience/justGames/sorting_game.png"
         }
     ]
