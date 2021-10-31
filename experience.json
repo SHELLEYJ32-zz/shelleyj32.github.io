@@ -718,7 +718,52 @@
             "logo": "assets/image/experience/activities/aculac.png"
         }
     ],
-    "justGames": [
+    "justGames": [  
+        {
+            "title": "First Day Last Choice",
+            "position": "Producer, Lead Game Programmer",
+            "organization": "Building Virtual Worlds at Carnegie Mellon University",
+            "location": "Pittsburgh",
+            "start time": "Oct 2021",
+            "end time": "Nov 2021",
+            "description": [
+                "Propotyped and impletmented a virtual reality interactive space adventure game in Unity and Oculus",
+                "Collaborated within five-person interdiscplinary team for production within 2 weeks"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity"
+            ],
+            "tags": [
+                "Current",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "logo": "assets/image/experience/justGames/first_day_last_choice.png"
+        },{
+            "title": "''The Right One''",
+            "position": "Producer, Lead Game Programmer",
+            "organization": "Visual Story at Carnegie Mellon University",
+            "location": "Pittsburgh",
+            "start time": "Oct 2021",
+            "end time": "Oct 2021",
+            "description": [
+                "Designed, edited, and programmed a desktop interactive live action dating game",
+                "Implemented non-linear storyline with button/quick time events, and recursive ending menu",
+                "Collaborated within five-person interdiscplinary team for production within three weeks"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "media": "https://drive.google.com/file/d/1kcqnq59d0i2hsmIxkkNMc9agZLHX17dZ/view?usp=sharing",
+            "logo": "assets/image/experience/justGames/the_right_one.png"
+        },
         {
             "title": "Twinkle Twinkle",
             "position": "Game Programmer",
@@ -739,6 +784,7 @@
                 "Computer Science",
                 "Interactive Media"
             ],
+            "media": "https://drive.google.com/file/d/1PsO-71kkEEdD-Oe-EOu6dDoarr0K5p-n/view?usp=sharing",
             "logo": "assets/image/experience/justGames/twinkle.png"
         },
         {
@@ -785,6 +831,7 @@
                 "Computer Science",
                 "Interactive Media"
             ],
+            "media": "https://drive.google.com/file/d/1aDjofXXRXoYk8xiIa8NQJ8szoDXzo57S/view?usp=sharing",
             "logo": "assets/image/experience/justGames/once_upon_a_wolf.png"
         },
         {
