@@ -289,6 +289,28 @@
     ],
     "projects": [
         {
+            "title": "V.S. Battles",
+            "position": "Producer, Cinematographer, Editor, VFX Artist",
+            "organization": "Visual Story at Carnegie Mellon University",
+            "location": "Pittsburgh",
+            "start time": "Nov 2021",
+            "end time": "Dec 2021",
+            "description": [
+                "Produced, wrote, shot, and edited a 6-min short super power film with 15 casts and staff",
+                "Post-processed all visual effects elements with editing and color correction within 3 weeks"
+            ],
+            "skills": [
+                "AdobePr",
+                "AdobeAe"
+            ],
+            "tags": [
+                "Past",
+                "Interactive Media"
+            ],
+            "media": "https://drive.google.com/file/d/14vHG5tDR9VLynJ5dO6H04_aBc6ARWpdf/view?usp=sharing",
+            "logo": "assets/image/experience/projects/vs_battles.png"
+        },
+        {
             "title": "Blanch Menu App",
             "position": "Project Manager, Programmer",
             "organization": "Developing Innovative Software at Mount Holyoke College",
@@ -720,7 +742,31 @@
     ],
     "justGames": [  
         {
-            "title": "First Day Last Choice",
+            "title": "Santa Training Course",
+            "position": "Game Programmer",
+            "organization": "Building Virtual Worlds at Carnegie Mellon University",
+            "location": "Pittsburgh",
+            "start time": "Nov 2021",
+            "end time": "Dec 2021",
+            "description": [
+                "Propotyped and impletmented a location-based multi-player interactive game in Unity, SteamVR, and CAVE",
+                "Collaborated within five-person interdiscplinary team for production within 3 weeks",
+                "Playtested throughout ETC festival with over twenty naive guests in groups of three"
+            ],
+            "skills": [
+                "CSharp",
+                "Unity"
+            ],
+            "tags": [
+                "Past",
+                "Computer Science",
+                "Interactive Media"
+            ],
+            "media": "https://drive.google.com/file/d/1YZ7RkmzQK86XsWOrxg9-J7izEkhLl50G/view?usp=sharing",
+            "logo": "assets/image/experience/justGames/santa_training.jpg"
+        },
+        {
+            "title": "Last Choice",
             "position": "Producer, Lead Game Programmer",
             "organization": "Building Virtual Worlds at Carnegie Mellon University",
             "location": "Pittsburgh",
@@ -735,11 +781,12 @@
                 "Unity"
             ],
             "tags": [
-                "Current",
+                "Past",
                 "Computer Science",
                 "Interactive Media"
             ],
-            "logo": "assets/image/experience/justGames/first_day_last_choice.png"
+            "media": "https://drive.google.com/file/d/1elEfGoTgyxQ9EzLqublhLC_5uymLlKLi/view?usp=sharing",
+            "logo": "assets/image/experience/justGames/last_choice.png"
         },{
             "title": "''The Right One''",
             "position": "Producer, Lead Game Programmer",
